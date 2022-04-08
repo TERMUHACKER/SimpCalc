@@ -1,0 +1,10 @@
+Hello there ...
+This is very simple calculator ..
+If you like this then comment your review ..
+
+How to use --->
+xxx ◆Setup step by step◆ xxx
+1.cd SimpCalc
+2.chmod +x *
+3.python calculator.py
+Enjoy 
